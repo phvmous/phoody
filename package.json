@@ -1,0 +1,19 @@
+{
+  "name": "phoody",
+  "version": "1.0.0",
+  "description": "phoody is a food picker written in js that randomly chooses for you what to eat based on your preferences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phvmous/phoody.git"
+  },
+  "author": "Thomas Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phvmous/phoody/issues"
+  },
+  "homepage": "https://github.com/phvmous/phoody#readme"
+}
